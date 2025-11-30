@@ -42,7 +42,7 @@ This project was commissioned by Designer Square Company to modernize their fina
 | **Frontend** | React.js, Redux Toolkit, Tailwind CSS, Framer Motion, Axios |
 | **Backend** | Core Java, JDBC, Gson (JSON parsing) |
 | **Database** | MySQL |
-| **Tools** | Git, Postman, Google Drive API (Local Integration) |
+| **Tools** | Git, Google Drive API (Local Integration) |
 
 ---
 
@@ -68,13 +68,6 @@ The application is divided into two primary modules:
 * Node.js & npm.
 * MySQL Server.
 
-### 1. Database Setup
-Create a MySQL database named `user_auth_db` and import the schema.
-```sql
-CREATE DATABASE user_auth_db;
--- Import the tables (users, customers, invoices, ledger_entries)
-
----
 
 ## 👨‍💻 Development Team
 
